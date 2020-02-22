@@ -9,8 +9,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Lifestyle for a carbon negative world." />
     <h1>Lifestyle for a carbon negative world.</h1>
-    <p>We all whish to stop climate change.</p>
-    <p>Be <em>charful</em> and let's do just that together, everyday.</p>
+    <p>We all wish to fght climate change.</p>
+    <p>Be <em>charful</em> and let's do that together, everyday.</p>
     {/* <Link to="/blog/">Get onboard</Link> */}
   </Layout>
 )
