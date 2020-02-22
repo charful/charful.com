@@ -7,14 +7,11 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <SEO title="Lifestyle for a carbon negative world." />
+    <h1>Lifestyle for a carbon negative world.</h1>
+    <p>We all whish to stop climate change.</p>
+    <p>Be <em>charful</em> and let's do just that together, everyday.</p>
+    {/* <Link to="/blog/">Get onboard</Link> */}
   </Layout>
 )
 
